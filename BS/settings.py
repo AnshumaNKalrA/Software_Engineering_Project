@@ -146,8 +146,8 @@ MESSAGE_TAGS = {
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'anshumankalra.bt21cse@pec.edu.in'
-EMAIL_HOST_PASSWORD = 'Vrinda@75'
+EMAIL_HOST_USER = 'user_mail'
+EMAIL_HOST_PASSWORD = 'user_mail_password'
 EMAIL_USE_TLS = True
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
